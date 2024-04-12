@@ -39,3 +39,13 @@ The performance of the algorithm is measured and stored in `timings.csv`. You ca
 - NumPy
 - Matplotlib
 - CSV module
+
+
+## Research: 
+
+![image](https://github.com/shgnplaatjies/Vertical-Adjacencies-using-Line-Sweeping/assets/63879125/02c3bcd4-4f0d-4694-b0b9-dff67854e58c)
+![image](https://github.com/shgnplaatjies/Vertical-Adjacencies-using-Line-Sweeping/assets/63879125/510fed4f-919f-4190-b5af-f15127cedc8b)
+![image](https://github.com/shgnplaatjies/Vertical-Adjacencies-using-Line-Sweeping/assets/63879125/c7a6e89d-2a53-4a3d-b560-e22df77992e6)
+
+
+
